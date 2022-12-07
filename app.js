@@ -2,6 +2,7 @@ const fs = require("fs");
 const fileName = fs.readdirSync("./files")[0];
 const xlsx = require("xlsx");
 
+fs.mkdirSync("./result", { recursive: true })
 const workBook = xlsx.readFile(`./files/${fileName}`);
 let workSheets = {};
 
