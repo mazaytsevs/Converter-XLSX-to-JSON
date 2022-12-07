@@ -1,0 +1,24 @@
+{
+  "name": "Converter-XLSX-to-JSON",
+  "version": "1.0.0",
+  "description": "Easy converter from XLSX file to JSON.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazaytsevs/Converter-XLSX-to-JSON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazaytsevs/Converter-XLSX-to-JSON/issues"
+  },
+  "homepage": "https://github.com/mazaytsevs/Converter-XLSX-to-JSON#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "xlsx": "^0.18.5"
+  }
+}
