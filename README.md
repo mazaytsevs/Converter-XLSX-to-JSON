@@ -1,5 +1,7 @@
 # Converter-XLSX-to-JSON
-Easy converter from XLSX file to JSON. 
+## Easy converter from XLSX file to JSON. 
+
+___
 
 Just add your XLSX-file to "./files" folder (you should create this folder).
 
@@ -13,4 +15,4 @@ Look for your pretty JSON in result/result.js or in editor's console.
 
 <img width="1148" alt="image" src="https://user-images.githubusercontent.com/99086528/206203528-139819c4-3ea9-447a-8fd5-9366bdd64c7d.png">
 
-Have fun!
+Have fun! 
