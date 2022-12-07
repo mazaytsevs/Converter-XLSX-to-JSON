@@ -11,7 +11,7 @@ Use command "npm i" then command "node app.js".
 
 <img width="572" alt="image" src="https://user-images.githubusercontent.com/99086528/206203023-7d75d30d-cfa4-423c-ac4e-12137440fb33.png">
 
-Look for your pretty JSON in result/result.js or in editor's console. 
+Look for your pretty JSON in ".result/result.js" or in editor's console. 
 
 <img width="1148" alt="image" src="https://user-images.githubusercontent.com/99086528/206203528-139819c4-3ea9-447a-8fd5-9366bdd64c7d.png">
 
